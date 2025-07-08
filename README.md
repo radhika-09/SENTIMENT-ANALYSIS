@@ -8,7 +8,7 @@ Domain: Data Analytics
 Duration: 4 Weeks
 Mentor: Neela Santosh
 
-This project is part of Task 4 of my Data Analyst Internship at CODTECH, focused on performing Sentiment Analysis using Natural Language Processing (NLP) techniques on real-world text data. The dataset used contains thousands of tweets directed at major U.S. airlines and is labeled with sentiments: positive, negative, or neutral. The objective of this project was to process and analyze these tweets to uncover patterns and train a machine learning model that accurately predicts sentiment from raw text.
+This project is part of Task 4 of my Data Analyst Internship at CODTECH IT SOLUTIONS, focused on performing Sentiment Analysis using Natural Language Processing (NLP) techniques on real-world text data. The dataset used contains thousands of tweets directed at major U.S. airlines and is labeled with sentiments: positive, negative, or neutral. The objective of this project was to process and analyze these tweets to uncover patterns and train a machine learning model that accurately predicts sentiment from raw text.
 
 The dataset, titled Twitter US Airline Sentiment, is sourced from Kaggle and includes over 14,000 tweets. Each tweet is associated with the name of the airline and a sentiment label indicating the tone of the message. The project began with data exploration and cleaning. This involved identifying missing values, checking data types, and understanding the distribution of sentiment labels across different airlines. The distribution showed that the majority of tweets were negative, followed by neutral and then positive sentiments.
 
