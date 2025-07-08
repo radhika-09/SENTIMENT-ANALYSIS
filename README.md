@@ -1,5 +1,5 @@
 # SENTIMENT-ANALYSIS
-##✈️ Twitter US Airline Sentiment Analysis – NLP Project
+#✈️ Twitter US Airline Sentiment Analysis – NLP Project
 Project Title: Sales Navigator Dashboard
 Company: Codtech IT Solutions
 Name: Radhika
