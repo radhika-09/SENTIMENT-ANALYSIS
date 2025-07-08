@@ -20,15 +20,15 @@ For classification, I chose Logistic Regression, a widely used algorithm for tex
 
 In addition to modeling, I created a range of visualizations using matplotlib, seaborn, and wordcloud. These included:
 
-A pie chart of sentiment distribution
+- A pie chart of sentiment distribution
 
-Bar plots showing sentiment counts by airline
+- Bar plots showing sentiment counts by airline
 
-Box plots displaying sentiment confidence scores
+- Box plots displaying sentiment confidence scores
 
-Word clouds for each sentiment category
+- Word clouds for each sentiment category
 
-Bar charts of the most frequent words per sentiment class
+- Bar charts of the most frequent words per sentiment class
 
 These visualizations provided clear insights into user behavior and sentiment trends. For instance, most complaints were related to United Airlines, and positive feedback often centered around timely service and helpful staff.
 
